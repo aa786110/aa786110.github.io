@@ -77,8 +77,9 @@ body > footer {
     background-color: rgb(14, 45, 114);
     color: white;
     display: flex;
-    height: 10vh;
+    height: 16vh;
     align-items: center;
+    justify-content: space-around;
     
 }
 
